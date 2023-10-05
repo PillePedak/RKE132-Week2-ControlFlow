@@ -1,0 +1,14 @@
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\bin\Debug\net6.0\UserGenderValidation.exe
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\bin\Debug\net6.0\UserGenderValidation.deps.json
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\bin\Debug\net6.0\UserGenderValidation.runtimeconfig.json
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\bin\Debug\net6.0\UserGenderValidation.dll
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\bin\Debug\net6.0\UserGenderValidation.pdb
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\obj\Debug\net6.0\UserGenderValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\obj\Debug\net6.0\UserGenderValidation.AssemblyInfoInputs.cache
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\obj\Debug\net6.0\UserGenderValidation.AssemblyInfo.cs
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\obj\Debug\net6.0\UserGenderValidation.csproj.CoreCompileInputs.cache
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\obj\Debug\net6.0\UserGenderValidation.dll
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\obj\Debug\net6.0\refint\UserGenderValidation.dll
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\obj\Debug\net6.0\UserGenderValidation.pdb
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\obj\Debug\net6.0\UserGenderValidation.genruntimeconfig.cache
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserGenderValidation\obj\Debug\net6.0\ref\UserGenderValidation.dll

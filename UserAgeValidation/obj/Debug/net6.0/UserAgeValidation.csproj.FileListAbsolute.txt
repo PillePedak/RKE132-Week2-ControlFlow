@@ -1,0 +1,14 @@
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\bin\Debug\net6.0\UserAgeValidation.exe
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\bin\Debug\net6.0\UserAgeValidation.deps.json
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\bin\Debug\net6.0\UserAgeValidation.runtimeconfig.json
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\bin\Debug\net6.0\UserAgeValidation.dll
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\bin\Debug\net6.0\UserAgeValidation.pdb
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.AssemblyInfoInputs.cache
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.AssemblyInfo.cs
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.csproj.CoreCompileInputs.cache
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.dll
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\obj\Debug\net6.0\refint\UserAgeValidation.dll
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.pdb
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.genruntimeconfig.cache
+C:\Users\pedak\Documents\Visual Studio 2022\Week2\UserAgeValidation\obj\Debug\net6.0\ref\UserAgeValidation.dll
